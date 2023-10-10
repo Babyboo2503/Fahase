@@ -6,7 +6,7 @@ renderItem=(products)=>{
     for(i=0; i<8; i++){
     output += `
       <div class="item">
-         <a href="chi-tiet.html#`+products[i].id+`" class="item-img"><img src="`+products[i].image+`"/></a>
+         <a href="../chi-tiet.html#`+products[i].id+`" class="item-img"><img src="`+products[i].image+`"/></a>
          <p class="item-name">`+products[i].title+`</p> 
          <p class="book-author">`+products[i].author+`</p>             
          <p class="item-price">`+products[i].price+'.000đ'+`</p>
@@ -35,7 +35,7 @@ window.addEventListener('load', ()=>{
                             <h6>${title}</h6>           
                             <p>${price}.000đ</p>
                          </div>`;
-        card.href = 'chi-tiet.html' + '#' + id
+        card.href = '../chi-tiet.html' + '#' + id
         box.appendChild(card);
     })
 })
