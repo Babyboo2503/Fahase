@@ -774,7 +774,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":507,
-                "image": ".../img/book/butdaquang.jpg",
+                "image": "./img/book/butdaquang.jpg",
                 "title": "Bút dạ quang",
                 "author": "Schneider",
                 "price": 17,
