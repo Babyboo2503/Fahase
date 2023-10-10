@@ -3,7 +3,7 @@ const slideshowDivs = () => {
   for (let i = 1; i <= 5; i++) {
     const div = document.createElement("div");
 
-    div.style.backgroundImage = `url(../../img/banner/banner-${i}.png)`;
+    div.style.backgroundImage = `../url(img/banner/banner-${i}.png)`;
 
     i === 1 && div.classList.add("change");
 
