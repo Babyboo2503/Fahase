@@ -56,9 +56,8 @@ function login(e){
     if(username == savedUser.username && password == savedUser.password){
         result.innerHTML = 'Đăng nhập thành công'
         localStorage.setItem('isloggedin',username)
-       // window.location.href = '../index.html'
+        window.location.href = "../index.html"
         //window.href='../index/html'
-        window.location="https://babyboo2503.github.io/index.html"
       }
       else if((username != savedUser.username || password != savedUser.password)){
         result.innerHTML = "Sai tài khoản hoặc mật khẩu !"
