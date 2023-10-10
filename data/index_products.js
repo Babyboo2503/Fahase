@@ -5,7 +5,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
         book: [
             {
                 "id":1,
-                "image": "../img/book/TT2.jpg",
+                "image": "./img/book/TT2.jpg",
                 "title": "Tiểu Thuyết Chuyển Thể - Thanh Gươm Diệt Quỷ",
                 "author": "Koyoharu Gotouge",
                 "price": 51,
@@ -14,7 +14,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":2,
-                "image": "img/book/KT1.jpg",
+                "image": "./img/book/KT1.jpg",
                 "title": "Lập Chiến Lược Kinh Doanh Tối Giản",
                 "author": "Vaughan Evans",
                 "price": 102,
@@ -23,7 +23,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":3,
-                "image": "img/book/jujutsu.jpg",
+                "image": "./img/book/jujutsu.jpg",
                 "title": "Jujutsu Kaisen - limited",
                 "author": "Gege Akutami",
                 "price": 50,
@@ -32,7 +32,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":4,
-                "image": "img/book/komi.jpg",
+                "image": "./img/book/komi.jpg",
                 "title": "Komi-san",
                 "author": "Tomohito Oda",
                 "price": 25,
@@ -86,7 +86,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":10,
-                "image": "img/book/KN18.jpg",
+                "image": "../img/book/KN18.jpg",
                 "title": "Thao túng tâm lý",
                 "author": "Shannon Thomas",
                 "price": 43,
@@ -168,7 +168,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":19,
-                "image": "img/book/KT9.jpg",
+                "image": "../img/book/KT9.jpg",
                 "title": "The Leadership Triangle",
                 "author": "Kevin Ford",
                 "price": 76,
