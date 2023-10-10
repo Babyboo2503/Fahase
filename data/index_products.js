@@ -41,7 +41,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":5,
-                "image": "../img/book/KT2.jpg",
+                "image": "img/book/KT2.jpg",
                 "title": "Đô Thị Thông Minh, Tương Lai Xán Lạn",
                 "author": "Mike Barlow",
                 "price": 133,
@@ -50,7 +50,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":6,
-                "image": "../img/book/TT6.jpg",
+                "image": "img/book/TT6.jpg",
                 "title": "Sword Art Online Progressive",
                 "author": "REKI KAWAHARA",
                 "price": 92,
@@ -59,7 +59,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":7,
-                "image": "../img/book/chainsawman.jpg",
+                "image": "img/book/chainsawman.jpg",
                 "title": "Chainsaw man",
                 "author": "Tatsuki Fujimoto",
                 "price": 45,
@@ -68,7 +68,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":8,
-                "image": "../img/book/KT4.jpg",
+                "image": "img/book/KT4.jpg",
                 "title": "Tỷ Phú Không Tiền",
                 "author": "Conor O Clery",
                 "price": 132,
@@ -77,7 +77,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":9,
-                "image": "../img/book/KN17.jpg",
+                "image": "img/book/KN17.jpg",
                 "title": "Tâm Lý Học Thành Công",
                 "author": "Carol S Dweck",
                 "price": 153,
@@ -86,7 +86,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":10,
-                "image": "../img/book/KN18.jpg",
+                "image": "img/book/KN18.jpg",
                 "title": "Thao túng tâm lý",
                 "author": "Shannon Thomas",
                 "price": 43,
@@ -95,7 +95,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":11,
-                "image": "../img/book/KT13.jpg",
+                "image": "img/book/KT13.jpg",
                 "title": "Tinh Thần Chiến Đấu Rực Lửa",
                 "author": "Inamori Kazuo",
                 "price": 113,
@@ -104,7 +104,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":12,
-                "image": "../img/book/KT3.jpg",
+                "image": "img/book/KT3.jpg",
                 "title": "Vị Tu Sĩ Bán Chiếc Ferrari",
                 "author": "Robin Sharma",
                 "price": 77,
@@ -113,7 +113,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":13,
-                "image": "../img/book/KD5.jpg",
+                "image": "img/book/KD5.jpg",
                 "title": "Truyện Kinh Dị Việt Nam",
                 "author": "Thế Lữ",
                 "price": 99,
