@@ -5,7 +5,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
         book: [
             {
                 "id":1,
-                "image": "img/book/TT2.jpg",
+                "image": "../img/book/TT2.jpg",
                 "title": "Tiểu Thuyết Chuyển Thể - Thanh Gươm Diệt Quỷ",
                 "author": "Koyoharu Gotouge",
                 "price": 51,
