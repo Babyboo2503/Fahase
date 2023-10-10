@@ -77,7 +77,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":9,
-                "image": "img/book/KN17.jpg",
+                "image": "../img/book/KN17.jpg",
                 "title": "Tâm Lý Học Thành Công",
                 "author": "Carol S Dweck",
                 "price": 153,
@@ -95,7 +95,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":11,
-                "image": "img/book/KT13.jpg",
+                "image": "../img/book/KT13.jpg",
                 "title": "Tinh Thần Chiến Đấu Rực Lửa",
                 "author": "Inamori Kazuo",
                 "price": 113,
@@ -104,7 +104,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":12,
-                "image": "img/book/KT3.jpg",
+                "image": "../img/book/KT3.jpg",
                 "title": "Vị Tu Sĩ Bán Chiếc Ferrari",
                 "author": "Robin Sharma",
                 "price": 77,
@@ -113,7 +113,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":13,
-                "image": "img/book/KD5.jpg",
+                "image": "../img/book/KD5.jpg",
                 "title": "Truyện Kinh Dị Việt Nam",
                 "author": "Thế Lữ",
                 "price": 99,
@@ -122,7 +122,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":14,
-                "image": "img/book/KD6.jpg",
+                "image": "../img/book/KD6.jpg",
                 "title": "Tryện Kinh Dị Việt Nam",
                 "author": "Thế Lữ",
                 "price": 63,
@@ -132,7 +132,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":15,
-                "image": "img/book/KT5.jpg",
+                "image": "../mg/book/KT5.jpg",
                 "title": "Tôi Đã Kiếm 1 Triệu Đô Đầu Tiên",
                 "author": "Ewen Chia",
                 "price": 189,
