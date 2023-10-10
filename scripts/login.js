@@ -57,7 +57,6 @@ function login(e){
         result.innerHTML = 'Đăng nhập thành công'
         localStorage.setItem('isloggedin',username)
         window.location.href = "../index.html"
-        //window.href='../index/html'
       }
       else if((username != savedUser.username || password != savedUser.password)){
         result.innerHTML = "Sai tài khoản hoặc mật khẩu !"

@@ -26,7 +26,7 @@ rendersItem=(products)=>{
     let num=ranNum(min,max)
     output += `
     <div class="item swiper-slide">
-    <a class="item-img" href="../chi-tiet.html#`+products[num].id+`" target="_blank" ><img src="../+`+products[num].image+`"/></a>
+    <a class="item-img" href="../chi-tiet.html#`+products[num].id+`" target="_blank" ><img src="`+products[num].image+`"/></a>
     <a class="item-name" href="../chi-tiet.html#`+products[num].id+`" target="_blank">`+products[num].title+`</a>
     <a class="book-author">`+products[num].author+`</a>
     <span class="item-price">`+products[num].price+`.000đ</span>
@@ -38,7 +38,7 @@ rendersItem=(products)=>{
 }
 rendersItem(moreb)
 document.querySelector('.main-info').innerHTML=`<div class="item-img-large">
-                                                <img src="../+`+DetailProduct.image+`">
+                                                <img src="`+DetailProduct.image+`">
                                                 </div>
                                                 <div class="item-info">
                                                 <h2 class="item-name-large">`+DetailProduct.title+`</h2>
@@ -72,7 +72,7 @@ window.addEventListener('load', ()=>{
     sp.forEach(ele =>{
         const {id,image, title, price} = ele
         let card = document.createElement('a')
-        card.innerHTML=`<img src=../${image}">
+        card.innerHTML=`<img src=${image}">
                          <div class="content1">
                             <h6>${title}</h6>           
                             <p>${price}.000đ</p>

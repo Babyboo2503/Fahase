@@ -122,7 +122,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":14,
-                "image": "img/book/KD6.jpg",
+                "image": "../img/book/KD6.jpg",
                 "title": "Tryện Kinh Dị Việt Nam",
                 "author": "Thế Lữ",
                 "price": 63,
@@ -141,7 +141,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":16,
-                "image": "img/book/KT6.jpg",
+                "image": "../img/book/KT6.jpg",
                 "title": "Bất Động Sản Cho Thế Hệ Tương Lai",
                 "author": "Vicki Wusche",
                 "price": 67,
@@ -150,7 +150,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":17,
-                "image": "img/book/KT7.jpg",
+                "image": "../img/book/KT7.jpg",
                 "title": "Think And Grow Rich",
                 "author": "Napoleon Hill",
                 "price": 104,
@@ -159,7 +159,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":18,
-                "image": "img/book/KT8.jpg",
+                "image": "../img/book/KT8.jpg",
                 "title": "Bezonomics - Kinh Tế Học Bezos",
                 "author": "Brian Dumaine",
                 "price": 151,
@@ -168,7 +168,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":19,
-                "image": "img/book/KT9.jpg",
+                "image": "../img/book/KT9.jpg",
                 "title": "The Leadership Triangle",
                 "author": "Kevin Ford",
                 "price": 76,
@@ -177,7 +177,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":20,
-                "image": "img/book/KT10.jpg",
+                "image": "../img/book/KT10.jpg",
                 "title": "Xây Dựng Sự Độc Đáo",
                 "author": "Riccardo Pozzoll",
                 "price": 78,
@@ -186,7 +186,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":21,
-                "image": "img/book/KT11.jpg",
+                "image": "../img/book/KT11.jpg",
                 "title": "Stage Designer",
                 "author": "Hoan Nguyễn",
                 "price": 111,
@@ -195,7 +195,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":22,
-                "image": "img/book/KT12.jpg",
+                "image": "../img/book/KT12.jpg",
                 "title": "Masayoshi Son",
                 "author": "Onishi Takahiro",
                 "price": 114,
@@ -205,7 +205,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":23,
-                "image": "img/book/KT14.jpg",
+                "image": "../img/book/KT14.jpg",
                 "title": "Bí Mật Tư Duy Triệu Phú (Tái Bản 2021)",
                 "author": "T Harv Eker",
                 "price": 87,
@@ -214,7 +214,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":24,
-                "image": "img/book/TT1.jpg",
+                "image": "../img/book/TT1.jpg",
                 "title": "Từ Điển Tiếng “Em” - Tái Bản 2021",
                 "author": "Khotudien",
                 "price": 55,
@@ -224,7 +224,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":25,
-                "image": "img/book/TT3.jpg",
+                "image": "../img/book/TT3.jpg",
                 "title": "Bước Chậm Lại Giữa Thế Gian Vội Vã",
                 "author": "Hae Min",
                 "price": 58,
@@ -233,7 +233,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":26,
-                "image": "img/book/thientai.jpg",
+                "image": "../img/book/thientai.jpg",
                 "title": "Thiên tài bên trái, kẻ điên bên phải",
                 "author": "Cao Minh",
                 "price": 97,
@@ -242,7 +242,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":27,
-                "image": "img/book/dac-nhan-tamjpg.jpg",
+                "image": "../img/book/dac-nhan-tamjpg.jpg",
                 "title": "Đắc Nhân Tâm",
                 "author": "Nguyễn Văn Phước",
                 "price": 70,
@@ -251,7 +251,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":28,
-                "image": "img/book/yeu.jpg",
+                "image": "../img/book/yeu.jpg",
                 "title": "OSHO - Yêu - Being In Love",
                 "author": "OSHO",
                 "price": 119,
@@ -260,7 +260,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":29,
-                "image": "img/book/TT4.jpg",
+                "image": "../img/book/TT4.jpg",
                 "title": "Bố Già (Đông A)",
                 "author": "Mario Puzo",
                 "price": 104,
@@ -269,7 +269,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":30,
-                "image": "img/book/TT5.jpg",
+                "image": "../img/book/TT5.jpg",
                 "title": "Thế Giới Otome Game",
                 "author": "Mishima Yomu",
                 "price": 112,
@@ -279,7 +279,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":31,
-                "image": "img/book/TT7.jpg",
+                "image": "../img/book/TT7.jpg",
                 "title": "Hai Số Phận",
                 "author": "Jeffrey Archer",
                 "price": 104,
@@ -288,7 +288,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":32,
-                "image": "img/book/TT8.jpg",
+                "image": "../img/book/TT8.jpg",
                 "title": "Hai Vạn Dặm Dưới Đáy Biển ",
                 "author": "Jules Verne",
                 "price": 74,
@@ -297,7 +297,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":33,
-                "image": "img/book/KN1.jpg",
+                "image": "../img/book/KN1.jpg",
                 "title": "Thay Đổi Cuộc Sống Với Nhân Số Học",
                 "author": "Lê Đỗ Quỳnh Hương",
                 "price": 177,
@@ -306,7 +306,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":34,
-                "image": "img/book/KN2.jpg",
+                "image": "../img/book/KN2.jpg",
                 "title": "Đọc Vị Bất Kỳ Ai",
                 "author": "TS David J Lieberman",
                 "price": 54,
@@ -315,7 +315,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":35,
-                "image": "img/book/KN3.jpg",
+                "image": "../img/book/KN3.jpg",
                 "title": "Hiểu Về Trái Tim",
                 "author": "Minh Niệm",
                 "price": 126,
@@ -324,7 +324,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":36,
-                "image": "img/book/KN4.jpg",
+                "image": "../img/book/KN4.jpg",
                 "title": "Tâm Lý Học - Phác Họa Chân Dung Kẻ Phạm Tội",
                 "author": "Vũ",
                 "price": 108,
@@ -333,7 +333,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":37,
-                "image": "img/book/tokyo.jpg",
+                "image": "../img/book/tokyo.jpg",
                 "title": "Tokyo Revengers - tập 6",
                 "author": "Ken Wakui",
                 "price": 115,
@@ -342,7 +342,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":38,
-                "image": "img/book/spyxfamily.jpg",
+                "image": "../img/book/spyxfamily.jpg",
                 "title": "SPY x FAMILY",
                 "author": "Tatsuya Endo",
                 "price": 25,
@@ -351,7 +351,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":39,
-                "image": "img/book/kimestu.jpg",
+                "image": "../img/book/kimestu.jpg",
                 "title": "Kimestu no Yaiba",
                 "author": "Koyoharu Gotouge",
                 "price": 25,
@@ -360,7 +360,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":40,
-                "image": "img/book/KN5.jpg",
+                "image": "../img/book/KN5.jpg",
                 "title": "Đời Ngắn Đừng Ngủ Dài",
                 "author": "Robin Sharma",
                 "price": 55,
@@ -369,7 +369,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":41,
-                "image": "img/book/KN6.jpg",
+                "image": "../img/book/KN6.jpg",
                 "title": "Rèn Luyện Tư Duy Phản Biện",
                 "author": "Albert Rutherford",
                 "price": 65,
@@ -378,7 +378,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":42,
-                "image": "img/book/KN7.jpg",
+                "image": "../img/book/KN7.jpg",
                 "title": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
                 "author": "Rossie",
                 "price": 63,
@@ -387,7 +387,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":43,
-                "image": "img/book/KN8.jpg",
+                "image": "../img/book/KN8.jpg",
                 "title": "Sức Mạnh Tiềm Thức ",
                 "author": "Joseph Murphyc",
                 "price": 102,
@@ -396,7 +396,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":44,
-                "image": "img/book/KN9.jpg",
+                "image": "../img/book/KN9.jpg",
                 "title": "Chủ Nghĩa Khắc Kỷ",
                 "author": "William B Irvine",
                 "price": 87,
@@ -405,7 +405,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":45,
-                "image": "img/book/KN10.jpg",
+                "image": "../img/book/KN10.jpg",
                 "title": "Đừng Lựa Chọn An Nhàn Khi Còn Trẻ",
                 "author": "Cảnh Thiên",
                 "price": 87,
@@ -414,7 +414,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":46,
-                "image": "img/book/TE1.jpg",
+                "image": "../img/book/TE1.jpg",
                 "title": "Cẩm Nang Cấu Trúc Tiếng Anh",
                 "author": "Trang",
                 "price": 72,
@@ -423,7 +423,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":47,
-                "image": "img/book/TE2.jpg",
+                "image": "../img/book/TE2.jpg",
                 "title": "Ngữ Pháp Tiếng Anh ",
                 "author": "Mai Lan Hương",
                 "price": 50,
@@ -432,7 +432,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":48,
-                "image": "img/book/TE3.jpg",
+                "image": "../img/book/TE3.jpg",
                 "title": "Tiếng Nhật Cho Mọi Người",
                 "author": "Minna no Nihongo",
                 "price": 71,
@@ -441,7 +441,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":49,
-                "image": "img/book/TE4.jpg",
+                "image": "../img/book/TE4.jpg",
                 "title": "Sách Tự Học Hiragana Katakana",
                 "author": "AOTS",
                 "price": 64,
@@ -450,7 +450,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":50,
-                "image": "img/book/KN11.jpg",
+                "image": "../img/book/KN11.jpg",
                 "title": "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
                 "author": "Trác Nhả",
                 "price": 76,
@@ -459,7 +459,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":51,
-                "image": "img/book/KN12.jpg",
+                "image": "../img/book/KN12.jpg",
                 "title": "Người Giàu Có Nhất Thành Babylon",
                 "author": "George S Clason",
                 "price": 52,
@@ -468,7 +468,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":52,
-                "image": "img/book/KN13.jpg",
+                "image": "../img/book/KN13.jpg",
                 "title": "Thần Số Học: Thấu Hiểu Nhân Tâm",
                 "author": "Tống Khánh Thượng",
                 "price": 76,
@@ -477,7 +477,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":53,
-                "image": "img/book/KN14.jpg",
+                "image": "../img/book/KN14.jpg",
                 "title": "Một Đời Như Kẻ Tìm Đường",
                 "author": "Phan Văn Trường",
                 "price": 320,
@@ -486,7 +486,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":54,
-                "image": "img/book/KN15.jpg",
+                "image": "../img/book/KN15.jpg",
                 "title": "Tư Duy Phản Biện",
                 "author": "Zoe McKey",
                 "price": 55,
@@ -495,7 +495,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":55,
-                "image": "img/book/KN16.jpg",
+                "image": "../img/book/KN16.jpg",
                 "title": "Kiếp Nào Ta Cũng Tìm Thấy Nhau ",
                 "author": "Brian L Weiss",
                 "price": 450,
@@ -505,7 +505,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":56,
-                "image": "img/book/KN19.jpg",
+                "image": "../img/book/KN19.jpg",
                 "title": "Cân Bằng Cảm Xúc, Cả Lúc Bão Giông",
                 "author": "Richard Nicholls",
                 "price": 74,
@@ -515,7 +515,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":57,
-                "image": "img/book/TE6.jpg",
+                "image": "../img/book/TE6.jpg",
                 "title": "Ngữ Pháp Tiếng Hàn Thông Dụng",
                 "author": "Ahn Jean Myung",
                 "price": 213,
@@ -524,7 +524,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":58,
-                "image": "img/book/KD1.jpg",
+                "image": "../img/book/KD1.jpg",
                 "title": "Dị Chủng 2 - Tàn Thế",
                 "author": "Guillermo Del",
                 "price": 114,
@@ -533,7 +533,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":59,
-                "image": "img/book/KD2.jpg",
+                "image": "../img/book/KD2.jpg",
                 "title": "Mùa Hạn Kinh Hoàng - The Dry",
                 "author": "Jane Harper",
                 "price": 70,
@@ -542,7 +542,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":60,
-                "image": "img/book/KD3.jpg",
+                "image": "../img/book/KD3.jpg",
                 "title": "Di Sản Kinh Hoàng",
                 "author": "Lisa Gardner",
                 "price": 137,
@@ -551,7 +551,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":61,
-                "image": "img/book/KD4.jpg",
+                "image": "../img/book/KD4.jpg",
                 "title": "Truyện Kinh Dị Việt Nam",
                 "author": "Thế Lữ",
                 "price": 406,
@@ -561,7 +561,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":62,
-                "image": "img/book/KD7.jpg",
+                "image": "../img/book/KD7.jpg",
                 "title": "Truyện Kinh Dị Việt Nam",
                 "author": "Lan Khai",
                 "price": 87,
@@ -570,7 +570,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":63,
-                "image": "img/book/TE7.jpg",
+                "image": "../img/book/TE7.jpg",
                 "title": "Tiếng Hàn Tổng Hợp",
                 "author": "Cho Hang Rok",
                 "price": 120,
@@ -579,7 +579,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":64,
-                "image": "img/book/TE8.jpg",
+                "image": "../img/book/TE8.jpg",
                 "title": "Giáo Trình Hán Ngữ 1",
                 "author": "Chưa cập nhật",
                 "price": 71,
@@ -588,7 +588,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":65,
-                "image": "img/book/TE9.jpg",
+                "image": "../img/book/TE9.jpg",
                 "title": "Keep It Up - Tập Viết Chữ Hán",
                 "author": "Jeyong",
                 "price": 56,
@@ -597,7 +597,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":66,
-                "image": "img/book/OP.jpg",
+                "image": "../img/book/OP.jpg",
                 "title": "Vivre Card ",
                 "author": "Eiichiro Oda",
                 "price": 120,
@@ -606,7 +606,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":67,
-                "image": "img/book/blackjack.jpg",
+                "image": "../img/book/blackjack.jpg",
                 "title": "Black Jack - tập 11 ",
                 "author": "Osamu Tezuka",
                 "price": 30,
@@ -615,7 +615,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":68,
-                "image": "img/book/bleach.jpg",
+                "image": "../img/book/bleach.jpg",
                 "title": "BLEACH - tập 70 ",
                 "author": "Tite Kubo",
                 "price": 25,
@@ -624,7 +624,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":69,
-                "image": "img/book/ranma.jpg",
+                "image": "../img/book/ranma.jpg",
                 "title": "Ranma 1/2 - tập 19 ",
                 "author": "Rumiko TAKAHASHI",
                 "price": 70,
@@ -633,7 +633,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":70,
-                "image": "img/book/conan.jpg",
+                "image": "../img/book/conan.jpg",
                 "title": "CONAN - tập 98 ",
                 "author": "Gosho Aoyama",
                 "price": 20,
@@ -642,7 +642,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":71,
-                "image": "img/book/overlord.jpg",
+                "image": "../img/book/overlord.jpg",
                 "title": "OVERLORD - tập 13 ",
                 "author": "Maruyama Kugane",
                 "price": 48,
@@ -652,7 +652,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
 
             {
                 "id":72,
-                "image": "img/book/tienganh.jpg",
+                "image": "../img/book/tienganh.jpg",
                 "title": "30 Chủ đề từ vựng tiếng anh",
                 "author": "Trang Anh",
                 "price": 308,
@@ -661,7 +661,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":73,
-                "image": "img/book/hoahoc.jpg",
+                "image": "../img/book/hoahoc.jpg",
                 "title": "Sổ tay hóa học",
                 "author": "Trần Thị Yến",
                 "price": 40,
@@ -670,7 +670,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":74,
-                "image": "img/book/giakim.jpg",
+                "image": "../img/book/giakim.jpg",
                 "title": "Nhà giả kim",
                 "author": "Paulo Coelho",
                 "price": 65,
@@ -679,7 +679,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":75,
-                "image": "img/book/demvinhhang.jpg",
+                "image": "../img/book/demvinhhang.jpg",
                 "title": "Đêm Vĩnh Hằng",
                 "author": "Guillermo Del Toro",
                 "price": 140,
@@ -688,7 +688,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":76,
-                "image": "img/book/eng.jpg",
+                "image": "../img/book/eng.jpg",
                 "title": "English Grammar in Use Book w Ans",
                 "author": "Raymond Murphy",
                 "price": 170,
@@ -697,7 +697,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":77,
-                "image": "img/book/kinang.jpg",
+                "image": "../img/book/kinang.jpg",
                 "title": "Kĩ năng sống",
                 "author": "PGS TS Huỳnh Văn Sơn",
                 "price": 30,
@@ -706,7 +706,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":78,
-                "image": "img/book/ando.jpg",
+                "image": "../img/book/ando.jpg",
                 "title": "mahabharata",
                 "author": "DK",
                 "price": 520,
@@ -718,7 +718,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
         vpp: [
             {
                 "id":500,
-                "image": "img/book/but.jpg",
+                "image": "../img/book/but.jpg",
                 "title": "Hộp 20 bút bi 0.5mm",
                 "author": "Thiên Long",
                 "price": 69,
@@ -726,7 +726,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":501,
-                "image": "img/book/tap.jpg",
+                "image": "../img/book/tap.jpg",
                 "title": "Tập Sinh Viên 4 Ô Ly",
                 "author": "Elephant",
                 "price": 17,
@@ -734,7 +734,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":502,
-                "image": "img/book/balo.jpg",
+                "image": "../img/book/balo.jpg",
                 "title": "Cặp Đa Năng Simplex 06",
                 "author": "STARGO",
                 "price": 462,
@@ -742,7 +742,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":503,
-                "image": "img/book/chi.jpg",
+                "image": "../img/book/chi.jpg",
                 "title": "Ruột Chì Ngòi Lớn 2B",
                 "author": "Uyên Loan",
                 "price": 4,
@@ -750,7 +750,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":504,
-                "image": "img/book/bothuchanh.jpg",
+                "image": "../img/book/bothuchanh.jpg",
                 "title": "Bộ 2 Hộp Thực Hành Toán Lớp 2",
                 "author": "Việt Nam",
                 "price": 188,
@@ -758,7 +758,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":505,
-                "image": "img/book/puzzle.jpg",
+                "image": "../img/book/puzzle.jpg",
                 "title": "Bộ Xếp Hình Puzzle",
                 "author": "Castorland",
                 "price": 649,
@@ -766,7 +766,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":506,
-                "image": "img/book/cal.jpg",
+                "image": "../img/book/cal.jpg",
                 "title": "Máy Tính Vinacal 570 ES Plus II ",
                 "author": "Vinacal",
                 "price": 540,
@@ -774,7 +774,7 @@ if (window.localStorage.status != pstatus || !window.localStorage.product) {
             },
             {
                 "id":507,
-                "image": "img/book/butdaquang.jpg",
+                "image": "../img/book/butdaquang.jpg",
                 "title": "Bút dạ quang",
                 "author": "Schneider",
                 "price": 17,
