@@ -72,7 +72,7 @@ window.addEventListener('load', ()=>{
     sp.forEach(ele =>{
         const {id,image, title, price} = ele
         let card = document.createElement('a')
-        card.innerHTML=`<img src=${image}">
+        card.innerHTML=`<img src=../${image}">
                          <div class="content1">
                             <h6>${title}</h6>           
                             <p>${price}.000đ</p>
