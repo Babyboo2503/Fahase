@@ -24,7 +24,7 @@ rendermainPage=(products,item_eachPage,currentPage)=>{
             products.forEach(item => {
             output += `
               <div class="item">
-                 <a href="chi-tiet.html#`+item.id+`" class="item-img"><img src="`+item.image+`"/></a>
+                 <a href="../chi-tiet.html#`+item.id+`" class="item-img"><img src="`+item.image+`"/></a>
                  <p class="item-name">`+item.title+`</p> 
                  <p class="book-author">`+item.author+`</p>             
                  <p class="item-price">`+item.price+'.000đ'+`</p>
@@ -196,7 +196,7 @@ window.addEventListener('load', ()=>{
                             <h6>${title}</h6>           
                             <p>${price}.000đ</p>
                          </div>`;
-        card.href = 'chi-tiet.html' + '#' + id
+        card.href = '../chi-tiet.html' + '#' + id
         box.appendChild(card);
     })
 })

@@ -26,8 +26,8 @@ rendersItem=(products)=>{
     let num=ranNum(min,max)
     output += `
     <div class="item swiper-slide">
-    <a class="item-img" href="chi-tiet.html#`+products[num].id+`" target="_blank" ><img src="`+products[num].image+`"/></a>
-    <a class="item-name" href="chi-tiet.html#`+products[num].id+`" target="_blank">`+products[num].title+`</a>
+    <a class="item-img" href="../chi-tiet.html#`+products[num].id+`" target="_blank" ><img src="`+products[num].image+`"/></a>
+    <a class="item-name" href="../chi-tiet.html#`+products[num].id+`" target="_blank">`+products[num].title+`</a>
     <a class="book-author">`+products[num].author+`</a>
     <span class="item-price">`+products[num].price+`.000đ</span>
   </div>
@@ -77,7 +77,7 @@ window.addEventListener('load', ()=>{
                             <h6>${title}</h6>           
                             <p>${price}.000đ</p>
                          </div>`;
-        card.href = 'chi-tiet.html' + '#' + id
+        card.href = '../chi-tiet.html' + '#' + id
         card.target="_blank"
         box.appendChild(card);
     })

@@ -36,6 +36,6 @@ orderBtn.addEventListener('click', function(){
         return
     }
     alert('Đã đặt hàng!')
-    window.location.href = '/index.html'
+    window.location.href = '../index.html'
     localStorage.removeItem('cart');
 })

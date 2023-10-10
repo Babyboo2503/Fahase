@@ -61,7 +61,7 @@ window.onload = start;
 
 function start() {
     if (admin_status[0] == false) {
-        window.location.href = '/index.html';
+        window.location.href = '../index.html';
     }
     document.querySelector('.admin_name').innerText = `${admin_status[1]}`
     //Hàm mặc định chạy khi mở website
@@ -850,7 +850,7 @@ function toggleMenu() {
 function closing() {
     var upateAdminStat = [false, ''];
     localStorage.setItem('adminStatus', JSON.stringify(upateAdminStat));
-    window.location.href = '/index.html';
+    window.location.href = '../index.html';
 }
 logout_btn.addEventListener('click', () => {
     closing();
